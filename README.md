@@ -1,4 +1,4 @@
-# TopG-teamProject
+# teamProject
 This is a team project for university (Module: Software Engineering).
 
 
